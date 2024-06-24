@@ -25,7 +25,7 @@
   width: 20px;
   height: 20px;
   border-radius: 50%; 
-  background: #f460ff;
+  background: #00FF03;
   cursor: pointer !important;
 }
 
@@ -52,7 +52,7 @@ font-family: 'Roboto Mono';
 #PressKey {
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-family: 'Roboto Mono';
-    color: #9e21a1 !important;
+    color: #0017FF !important;
 }
 
 #switch {
@@ -135,16 +135,3 @@ transition: all 1s;
     transition: all 1s;
 }
 
-#patr{
-   color: #171daf; 
-    text-decoration: none;
-    font-size:15px;
-}
-
-#patrLink:hover{
-    color: #0092ff;
-}
-
-#patr:hover{
-    color: #0092ff;
-}
