@@ -45,13 +45,13 @@ body { margin: 0;
    -khtml-user-select: none; /* Konqueror HTML */
    -moz-user-select: none; /* Firefox */
    -ms-user-select: none;
-font-family: 'Allerta Stencil';
+font-family: 'Roboto Mono';
 }
     
 
 #PressKey {
     font-family: "Comic Sans MS", cursive, sans-serif;
-    font-family: 'Allerta Stencil';
+    font-family: 'Roboto Mono';
     color: #9e21a1 !important;
 }
 
@@ -59,7 +59,7 @@ font-family: 'Allerta Stencil';
     background-color: #4CAF50;
     Width: 200px;
     outline:none;
-    font-family: 'Allerta Stencil';
+    font-family: 'Roboto Mono';
     font-size: 15px;
     padding: 5px;
     margin-top:5px;
@@ -92,17 +92,17 @@ transition: all 1s;
     transition: all 1s;
 }
 
-#zom{font-family: 'Allerta Stencil';
+#zom{font-family: 'Roboto Mono';
     font-size: 15px;
 }
 
-#best{font-family: 'Allerta Stencil';}
+#best{font-family: 'Roboto Mono';}
 
 #records {
     background-color: #4CAF50;
     Width: 200px;
     outline:none;
-    font-family: 'Allerta Stencil';
+    font-family: 'Roboto Mono';
     font-size: 15px;
     padding: 5px;
     margin-top:45px;
