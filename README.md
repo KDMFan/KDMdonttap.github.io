@@ -1,8 +1,6 @@
-# donttap v2
+# donttap v3
 
-This thing belongs to this guy 
-https://github.com/Sentero-esp12/donttap-2019
+forked from (donttap v2)[https://github.com/donttap/donttap]
 
-created only for hosting because old website is dead
 
-can delete this if there is any problems
+
