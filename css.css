@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto Mono');
+@import url('https://fonts.googleapis.com/css?family=Noto%20Sans');
 
 #slider {
   -webkit-appearance: none;
@@ -25,7 +25,7 @@
   width: 20px;
   height: 20px;
   border-radius: 50%; 
-  background: #00FF03;
+  background: #000000;
   cursor: pointer !important;
 }
 
@@ -34,7 +34,7 @@
   width: 20px;
   height: 20px;
   border-radius: 50%;
-  background: #f460ff;
+  background: ##ff2f00;
   cursor: pointer !important;
 }
 
@@ -45,13 +45,13 @@ body { margin: 0;
    -khtml-user-select: none; /* Konqueror HTML */
    -moz-user-select: none; /* Firefox */
    -ms-user-select: none;
-font-family: 'Roboto Mono';
+font-family: 'Noto Sans';
 }
     
 
 #PressKey {
     font-family: "Comic Sans MS", cursive, sans-serif;
-    font-family: 'Roboto Mono';
+    font-family: 'Noto Sans';
     color: #0017FF !important;
 }
 
@@ -59,7 +59,7 @@ font-family: 'Roboto Mono';
     background-color: #4CAF50;
     Width: 200px;
     outline:none;
-    font-family: 'Roboto Mono';
+    font-family: 'Noto Sans';
     font-size: 15px;
     padding: 5px;
     margin-top:5px;
@@ -92,17 +92,17 @@ transition: all 1s;
     transition: all 1s;
 }
 
-#zom{font-family: 'Roboto Mono';
+#zom{font-family: 'Noto Sans';
     font-size: 15px;
 }
 
-#best{font-family: 'Roboto Mono';}
+#best{font-family: 'Noto Sans';}
 
 #records {
-    background-color: #4CAF50;
+    background-color: #00f7ff;
     Width: 200px;
     outline:none;
-    font-family: 'Roboto Mono';
+    font-family: 'Noto Sans';
     font-size: 15px;
     padding: 5px;
     margin-top:45px;
